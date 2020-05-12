@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+$fa-font-path: "../webfonts";
+
+//ADmin LTRE
+@import '~admin-lte/dist/css/adminlte.css';
+@import '~admin-lte/dist/css/adminlte.css';
+
+//Font AWESOME 4.7
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+
+
